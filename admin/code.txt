@@ -1,0 +1,3 @@
+}else if($_GET['p'] == "account" ) {
+      include("account.php");
+      }
